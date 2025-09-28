@@ -5,9 +5,9 @@ optimizing performance when you need FPS and boosting visibility when you need r
 It saves your preferences, works purely client-side, and keeps gameplay smooth without touching servers,
 
 perfect for:
--PvP
--parkour
--exploration
--low-end PCs
+PvP
+parkour
+exploration
+low-end PCs
 
 Install it to control your view distance on the fly and get consistent performance exactly when you need it.
