@@ -12,6 +12,6 @@ perfect for:
 
 -exploration
 
--low-end PCs
+-low PCs
 
 Install it to control your view distance and get consistent performance exactly when you need it.
