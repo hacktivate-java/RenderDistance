@@ -2,12 +2,16 @@ Render Distance Mod for Minecraft 1.8.9 lets you instantly toggle between two pr
 
 optimizing performance when you need FPS and boosting visibility when you need range.
 
-It saves your preferences, works purely client-side, and keeps gameplay smooth without touching servers,
+It saves your preferences, works purely client-side, and keeps gameplay smooth.
 
 perfect for:
-PvP
-parkour
-exploration
-low-end PCs
 
-Install it to control your view distance on the fly and get consistent performance exactly when you need it.
+-PvP
+
+-parkour
+
+-exploration
+
+-low-end PCs
+
+Install it to control your view distance and get consistent performance exactly when you need it.
